@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "nuxt-starter-template",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "A starter template for ACLU web projects with Nuxt and Vue",
+  "author": "Rhonda Friberg <rfriberg@aclu.org>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
