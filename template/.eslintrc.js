@@ -12,7 +12,7 @@ module.exports = {
   extends: [
     // https://github.com/vuejs/eslint-plugin-vue#priority-a-essential-error-prevention
     'plugin:vue/recommended',
-    'plugin:prettier/recommended'
+    '@vue/eslint-config-prettier'
   ],
   // required to lint *.vue files
   plugins: [ 'vue' ],
