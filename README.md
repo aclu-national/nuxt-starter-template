@@ -1,6 +1,8 @@
 # Nuxt Starter Template
 
-This is a [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template used for ACLU-branded projects
+This is a [Nuxt.js](https://github.com/nuxt/nuxt.js) v1.4 starter project template used for ACLU-branded projects
+
+**For Nuxt v2.x, please see the [nuxt2-starter-template](https://github.com/aclu-national/nuxt-starter-template)**
 
 Includes:
 
